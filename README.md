@@ -76,16 +76,6 @@ Travel consulting website built using Next.js + Tailwind CSS.
 👉 **My Portfolio:** https://saif-chebli.vercel.app/  
 Features project demos, UI showcases, and development details.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=saifChebli&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifChebli&layout=compact&langs_count=6&theme=radical" height="160" />
-
-</p>
 
 ---
 
