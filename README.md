@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saifChebli/saifChebli/main/profile-header.svg" alt="Saif Chebli" width="100%" />
-</p>
 
 <h1 align="center">Hi, I'm Saif Chebli 👋</h1>
 
