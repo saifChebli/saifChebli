@@ -37,7 +37,7 @@ Node.js • Express.js • NestJS • PHP • Laravel • CodeIgniter 3/4
 ### **Databases**
 <div>
   
-MySQL • MongoDB • Prisma ORM • Mongoose • Redis
+MySQL • MongoDB • PostgreSQL • Prisma ORM • Mongoose • Redis
 
 </div>
 
